@@ -6,7 +6,7 @@ class RobotDemo : public SimpleRobot
    RobotDemo(void)
    {
       //put initialization code here
-   {
+   }
  
    void Autonomous(void)
    {
